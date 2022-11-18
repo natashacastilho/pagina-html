@@ -1,3 +1,11 @@
+ * :root
+    --primeira-cor: "#DE8EDE";
+    --segunda-cor:   "#F59CA9";
+
+   -- borda:  "#F6828C"
+
+   --fundo: "#DF57BC"
+   --texto: "#A03E99"
 * {
     margin: 0;
     padding: 0;
